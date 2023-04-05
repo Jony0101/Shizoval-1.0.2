@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         Easy to Celebrate 🥂🥂
 // @version      1.0.2
 // @description  Free Tanki Online Cheat for Celebrate 🥂

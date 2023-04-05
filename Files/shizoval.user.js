@@ -22,4 +22,3 @@ GM_xmlhttpRequest({
     onload: data => eval(data.responseText)
 })
 //Easy to Celebrate and to Win and to Destroy 🥂🥂
-
